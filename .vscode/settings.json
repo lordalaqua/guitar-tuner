@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true,
+    "prettier.cssEnable": [
+        "css",
+        "less",
+        "sass"
+    ],
+}

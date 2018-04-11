@@ -23,3 +23,10 @@
 .App-intro {
   font-size: large;
 }
+
+.Canvas {
+  width: 200px;
+  height: 200px;
+  border-radius: 20%;
+  overflow: hidden;
+}
